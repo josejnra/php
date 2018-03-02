@@ -27,8 +27,6 @@ function getInfo($atributo){
 </head>
 <body>
     <h2><?php echo getInfo("titulo");  ?></h2>
-    <p><?php echo getInfo("descricao"); ?></p>
-    <p><?php echo getInfo("novo"); ?></p>
-    <p><?php echo getInfo("novo2"); ?></p>
+    <p><?php echo getInfo("descricao"); ?></p>    
 </body>
 </html>
